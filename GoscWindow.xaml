@@ -1,0 +1,41 @@
+﻿<Window x:Class="GUIProjekt.GoscWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUIProjekt"
+        mc:Ignorable="d"
+        Height="236.164" Width="466.639" 
+        ResizeMode="NoResize"
+        WindowStyle="None">
+    <Grid Margin="0,0,0,0" HorizontalAlignment="Left" Width="481" Background="#FFDDDDDD">
+
+        <TextBox x:Name="txt_Imie" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Margin="169,44,0,0" Background="#FFB6B6B6" FontFamily="Arial"  />
+        <TextBox x:Name="txt_Nazwisko" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Margin="169,72,0,0" Background="#FFB6B6B6" FontFamily="Arial" />
+        <TextBox x:Name="txt_Pesel" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Margin="169,154,0,0" Background="#FFB6B6B6" FontFamily="Arial" />
+        <TextBox x:Name="txt_DataUrodzenia" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Margin="169,126,0,0" Background="#FFB6B6B6" FontFamily="Arial" />
+        <Label Content="Imię" HorizontalAlignment="Left" VerticalAlignment="Top" HorizontalContentAlignment="Right" Margin="10,44,0,0" Height="22.4" Width="154" Background="#FF489447" FontFamily="Arial"/>
+        <Label Content="Data urodzenia" HorizontalContentAlignment="Right" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,126,0,0" Height="23" Width="154" Background="#FF489447" FontFamily="Arial"/>
+        <Label Content="Pesel" HorizontalContentAlignment="Right" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,154,0,0" Height="22" Width="154" Background="#FF489447" FontFamily="Arial"/>
+        <Label Content="Nazwisko" HorizontalContentAlignment="Right" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,71,0,0" Height="23" Width="154" Background="#FF489447" FontFamily="Arial"/>
+        <Button x:Name="btn_Zatwierdz" BorderBrush="Black" Content="Zatwierdź" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="239,208,0,0" Height="20" Click="btn_Zatwierdz_Click" FontWeight="Bold" Background="#FF3C5A3C" FontFamily="Arial"/>
+        <Button x:Name="btn_Anuluj" BorderBrush="Black" Content="Anuluj" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="351,208,0,0" Height="20" Click="btn_Anuluj_Click" FontWeight="Bold" Background="#FF3C5A3C" FontFamily="Arial"/>
+        <Label Content="Nr telefonu" HorizontalContentAlignment="Right" VerticalAlignment="Top" Margin="10,181,0,0" Height="22" Background="#FF489447" HorizontalAlignment="Left" Width="154" FontFamily="Arial"/>
+        <Label Content="Płeć" HorizontalContentAlignment="Right" VerticalAlignment="Top" Margin="10,99,0,0" Height="22" Background="#FF489447" HorizontalAlignment="Left" Width="154" FontFamily="Arial"/>
+        <ComboBox x:Name="cmbox_Plec" HorizontalAlignment="Left" VerticalAlignment="Top" Width="289" Margin="169,99,0,0" Height="22" FontFamily="Arial">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FFB6B6B6" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBoxItem x:Name="K">Kobieta</ComboBoxItem>
+            <ComboBoxItem x:Name="M">Mężczyzna</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="txt_nrTelefonu" HorizontalAlignment="Left" Height="22" TextWrapping="Wrap" VerticalAlignment="Top" Width="289" Margin="169,181,0,0" Background="#FFB6B6B6" FontFamily="Arial" />
+        <Label Content="Dodaj gościa" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="448" FontWeight="Bold" Background="#FF489447" FontFamily="Arial" FontSize="16" MouseLeftButtonDown="Label_MouseLeftButtonDown"/>
+
+
+
+    </Grid>
+</Window>

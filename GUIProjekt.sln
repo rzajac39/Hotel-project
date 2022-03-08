@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIProjekt", "GUIProjekt.csproj", "{3B996D01-0EAA-40C1-8C79-E4E136EA9744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotekaHotel", "BibliotekaHotel\BibliotekaHotel.csproj", "{5F58D05D-2390-47A3-922B-F1461623F378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B996D01-0EAA-40C1-8C79-E4E136EA9744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B996D01-0EAA-40C1-8C79-E4E136EA9744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B996D01-0EAA-40C1-8C79-E4E136EA9744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B996D01-0EAA-40C1-8C79-E4E136EA9744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F58D05D-2390-47A3-922B-F1461623F378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F58D05D-2390-47A3-922B-F1461623F378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F58D05D-2390-47A3-922B-F1461623F378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F58D05D-2390-47A3-922B-F1461623F378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88845546-6E1B-4A32-BA38-DF79462D8E56}
+	EndGlobalSection
+EndGlobal
