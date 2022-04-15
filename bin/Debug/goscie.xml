@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpisGosci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiczbaGosci>5</LiczbaGosci>
+  <ListaGosci>
+    <Gosc>
+      <Imie>Jan</Imie>
+      <Nazwisko>Kolec</Nazwisko>
+      <Pesel>01234567894</Pesel>
+      <DataUrodzenia>2002-01-11T00:00:00</DataUrodzenia>
+      <NumerTelefonu>690-987-999</NumerTelefonu>
+      <Plec>M</Plec>
+    </Gosc>
+    <Gosc>
+      <Imie>Tomasz</Imie>
+      <Nazwisko>Pawłowski</Nazwisko>
+      <Pesel>02154879854</Pesel>
+      <DataUrodzenia>1990-06-05T00:00:00</DataUrodzenia>
+      <NumerTelefonu>595-625-969</NumerTelefonu>
+      <Plec>M</Plec>
+    </Gosc>
+    <Gosc>
+      <Imie>Maria</Imie>
+      <Nazwisko>Peszek</Nazwisko>
+      <Pesel>12784653081</Pesel>
+      <DataUrodzenia>1992-09-30T00:00:00</DataUrodzenia>
+      <NumerTelefonu>595-987-934</NumerTelefonu>
+      <Plec>K</Plec>
+    </Gosc>
+    <Gosc>
+      <Imie>Tomasz</Imie>
+      <Nazwisko>Pawłowski</Nazwisko>
+      <Pesel>02154879854</Pesel>
+      <DataUrodzenia>1990-06-05T00:00:00</DataUrodzenia>
+      <NumerTelefonu>595-625-969</NumerTelefonu>
+      <Plec>M</Plec>
+    </Gosc>
+    <Gosc>
+      <Imie>Piotr</Imie>
+      <Nazwisko>Żyła</Nazwisko>
+      <Pesel>93758209851</Pesel>
+      <DataUrodzenia>2001-03-10T00:00:00</DataUrodzenia>
+      <NumerTelefonu>892-623-888</NumerTelefonu>
+      <Plec>M</Plec>
+    </Gosc>
+  </ListaGosci>
+</SpisGosci>

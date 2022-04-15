@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GUIProjekt</name>
+    </assembly>
+    <members>
+        <member name="T:GUIProjekt.DodajPracownikaWindow">
+            <summary>
+            Interaction logic for DodajPracownikaWindow.xaml
+            </summary>
+            <summary>
+            DodajPracownikaWindow
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.DodajPracownikaWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Glowna">
+            <summary>
+            Logika interakcji dla klasy Glowna.xaml
+            </summary>
+            <summary>
+            Glowna
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Glowna.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Goscie">
+            <summary>
+            Logika interakcji dla klasy Goscie.xaml
+            </summary>
+            <summary>
+            Goscie
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Goscie.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.GoscWindow">
+            <summary>
+            Logika interakcji dla klasy GoscWindow.xaml
+            </summary>
+            <summary>
+            GoscWindow
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.GoscWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Kadra">
+            <summary>
+            Logika interakcji dla klasy Kadra.xaml
+            </summary>
+            <summary>
+            Kadra
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Kadra.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.KierownikWindow">
+            <summary>
+            Interaction logic for KierownikWindow.xaml
+            </summary>
+            <summary>
+            KierownikWindow
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.KierownikWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Pokoje">
+            <summary>
+            Logika interakcji dla klasy Pokoje.xaml
+            </summary>
+            <summary>
+            Pokoje
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Pokoje.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.PokojWindow">
+            <summary>
+            Logika interakcji dla klasy PokojWindow.xaml
+            </summary>
+            <summary>
+            PokojWindow
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.PokojWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Rezerwacje">
+            <summary>
+            Logika interakcji dla klasy Rezerwacje.xaml
+            </summary>
+            <summary>
+            Rezerwacje
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Rezerwacje.#ctor">
+            <summary>
+            Konstruktor nieparametryczny
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Rezerwacje.btn_Usun_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Przycisk usuwa rezerwację z listy oraz z kalendarza danego pokoju
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GUIProjekt.Rezerwacje.xmb_Pokoj_SelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Wybranie nr Pokoju w listBox i dodatkowe wczytanie zarezerwowanych dni tego pokoju do kalendarza
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GUIProjekt.Rezerwacje.btn_Dodaj_Click(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Przycisk dodawania rezerwacji do wybranego pokoju, który sprawdza czy chciana rezerwacja jest możliwa do wykonania, jeśli jest zaznacza ją w kalendarzu
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GUIProjekt.Rezerwacje.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.ZarobkiWindow">
+            <summary>
+            Interaction logic for ZarobkiWindow.xaml
+            </summary>
+            <summary>
+            ZarobkiWindow
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.ZarobkiWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Zmiany">
+            <summary>
+            Logika interakcji dla klasy Zmiany.xaml
+            </summary>
+            <summary>
+            Zmiany
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.Zmiany.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.App">
+            <summary>
+            Logika interakcji dla klasy App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.MainWindow">
+            <summary>
+            Logika interakcji dla klasy MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:GUIProjekt.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUIProjekt.Properties.Resources">
+            <summary>
+              Silnie typizowana klasa zasobów do wyszukiwania zlokalizowanych ciągów itd.
+            </summary>
+        </member>
+        <member name="P:GUIProjekt.Properties.Resources.ResourceManager">
+            <summary>
+              Zwraca buforowane wystąpienie składnika ResourceManager używane przez tę klasę.
+            </summary>
+        </member>
+        <member name="P:GUIProjekt.Properties.Resources.Culture">
+            <summary>
+              Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+              przypadków przeszukiwania zasobów za pomocą tej silnie typizowanej klasy zasobów.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KadraHotelu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KierownikGlowny>
+    <Imie>Tomasz</Imie>
+    <Nazwisko>Błaszczykowski</Nazwisko>
+    <Pesel>02156985214</Pesel>
+    <DataUrodzenia>1995-11-11T00:00:00</DataUrodzenia>
+    <NumerTelefonu>555-985-632</NumerTelefonu>
+    <Plec>M</Plec>
+    <Stopien>KierownikGłówny</Stopien>
+    <NumerKonta>85 6545 1000 2598 6574 5896 2375</NumerKonta>
+    <Zarobki>8000</Zarobki>
+  </KierownikGlowny>
+  <KadraPracownikow>
+    <ArrayOfPracownik>
+      <Pracownik>
+        <Imie>Piotr</Imie>
+        <Nazwisko>Mały</Nazwisko>
+        <Pesel>01210709674</Pesel>
+        <DataUrodzenia>1998-12-12T00:00:00</DataUrodzenia>
+        <NumerTelefonu>666-666-976</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>84 9584 1092 3271 2063 5210 6429</NumerKonta>
+        <Funkcja>ZłotaRączka</Funkcja>
+        <Zarobki>4500</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Maria</Imie>
+        <Nazwisko>Wilczur</Nazwisko>
+        <Pesel>11216702675</Pesel>
+        <DataUrodzenia>2000-01-14T00:00:00</DataUrodzenia>
+        <NumerTelefonu>647-632-776</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>35 1240 5224 8065 8860 7971 0257</NumerKonta>
+        <Funkcja>PomocKuchenna</Funkcja>
+        <Zarobki>3300</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Daria</Imie>
+        <Nazwisko>Wolak</Nazwisko>
+        <Pesel>50210920669</Pesel>
+        <DataUrodzenia>1995-07-21T00:00:00</DataUrodzenia>
+        <NumerTelefonu>172-336-446</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>45 1240 2643 3823 3693 7941 9370</NumerKonta>
+        <Funkcja>Kucharz</Funkcja>
+        <Zarobki>5000</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Geralt</Imie>
+        <Nazwisko>Riv</Nazwisko>
+        <Pesel>41419908776</Pesel>
+        <DataUrodzenia>1993-11-30T00:00:00</DataUrodzenia>
+        <NumerTelefonu>946-656-226</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>51 1240 4429 2292 5011 3219 1612</NumerKonta>
+        <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+        <Zarobki>3500</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Kordian</Imie>
+        <Nazwisko>Blanc</Nazwisko>
+        <Pesel>21214767634</Pesel>
+        <DataUrodzenia>2001-06-10T00:00:00</DataUrodzenia>
+        <NumerTelefonu>777-655-336</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>28 1240 2018 1728 5324 7959 2764</NumerKonta>
+        <Funkcja>Bagażowy</Funkcja>
+        <Zarobki>3000</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Bezi</Imie>
+        <Nazwisko>Mienny</Nazwisko>
+        <Pesel>41315767324</Pesel>
+        <DataUrodzenia>2001-03-11T00:00:00</DataUrodzenia>
+        <NumerTelefonu>112-333-444</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>92 9527 0007 1769 7977 0366 9251</NumerKonta>
+        <Funkcja>Kelner</Funkcja>
+        <Zarobki>3200</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Barbara</Imie>
+        <Nazwisko>Koniczyna</Nazwisko>
+        <Pesel>11235588874</Pesel>
+        <DataUrodzenia>1992-09-14T00:00:00</DataUrodzenia>
+        <NumerTelefonu>222-333-336</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>84 9584 1092 3271 2063 5210 6429</NumerKonta>
+        <Funkcja>Ochroniarz</Funkcja>
+        <Zarobki>2900</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Sławomir</Imie>
+        <Nazwisko>Memtzen</Nazwisko>
+        <Pesel>11214569199</Pesel>
+        <DataUrodzenia>1989-04-10T00:00:00</DataUrodzenia>
+        <NumerTelefonu>334-263-475</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>26 9375 1054 6010 0352 4397 6011</NumerKonta>
+        <Funkcja>Portier</Funkcja>
+        <Zarobki>3100</Zarobki>
+      </Pracownik>
+    </ArrayOfPracownik>
+    <ArrayOfPracownik>
+      <Pracownik>
+        <Imie>Bożydariusz</Imie>
+        <Nazwisko>Mielony</Nazwisko>
+        <Pesel>77210733376</Pesel>
+        <DataUrodzenia>1991-09-23T00:00:00</DataUrodzenia>
+        <NumerTelefonu>664-657-222</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>16 8001 0005 9980 0700 9244 3555</NumerKonta>
+        <Funkcja>ZłotaRączka</Funkcja>
+        <Zarobki>4500</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Robert</Imie>
+        <Nazwisko>Lewandowski</Nazwisko>
+        <Pesel>21444559114</Pesel>
+        <DataUrodzenia>1987-03-19T00:00:00</DataUrodzenia>
+        <NumerTelefonu>111-222-353</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta> 22 8149 0000 8645 1083 7923 8947</NumerKonta>
+        <Funkcja>Ochroniarz</Funkcja>
+        <Zarobki>2900</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Krzysztof</Imie>
+        <Nazwisko>Stanowski</Nazwisko>
+        <Pesel>21330559994</Pesel>
+        <DataUrodzenia>2001-09-21T00:00:00</DataUrodzenia>
+        <NumerTelefonu>223-856-358</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>76 8811 0006 3214 4137 9466 2643</NumerKonta>
+        <Funkcja>Kucharz</Funkcja>
+        <Zarobki>5000</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Ferdynand</Imie>
+        <Nazwisko>Kiepski</Nazwisko>
+        <Pesel>01254695875</Pesel>
+        <DataUrodzenia>1991-09-05T00:00:00</DataUrodzenia>
+        <NumerTelefonu>362-748-951</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>3 1130 0007 9683 5108 9170 5814</NumerKonta>
+        <Funkcja>Bagażowy</Funkcja>
+        <Zarobki>3000</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Jarosław</Imie>
+        <Nazwisko>Kaczyński</Nazwisko>
+        <Pesel>02697541238</Pesel>
+        <DataUrodzenia>1968-01-15T00:00:00</DataUrodzenia>
+        <NumerTelefonu>157-498-265</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>62 1090 2545 0304 4358 2526 3298</NumerKonta>
+        <Funkcja>PomocKuchenna</Funkcja>
+        <Zarobki>3300</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Forest</Imie>
+        <Nazwisko>Gump</Nazwisko>
+        <Pesel>26154873219</Pesel>
+        <DataUrodzenia>1991-07-16T00:00:00</DataUrodzenia>
+        <NumerTelefonu>154-932-586</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>42 1240 4647 7499 2109 1177 1621</NumerKonta>
+        <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+        <Zarobki>3500</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Meve</Imie>
+        <Nazwisko>Zdradzona</Nazwisko>
+        <Pesel>81213302174</Pesel>
+        <DataUrodzenia>1982-11-01T00:00:00</DataUrodzenia>
+        <NumerTelefonu>222-356-944</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>95 9288 1011 4453 8727 1690 6626</NumerKonta>
+        <Funkcja>Portier</Funkcja>
+        <Zarobki>3100</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Maksymilian</Imie>
+        <Nazwisko>Duży</Nazwisko>
+        <Pesel>02314526984</Pesel>
+        <DataUrodzenia>1994-06-02T00:00:00</DataUrodzenia>
+        <NumerTelefonu>145-863-248</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>2 8619 1058 1969 3438 2380 7842</NumerKonta>
+        <Funkcja>Kelner</Funkcja>
+        <Zarobki>3200</Zarobki>
+      </Pracownik>
+    </ArrayOfPracownik>
+    <ArrayOfPracownik>
+      <Pracownik>
+        <Imie>Marian</Imie>
+        <Nazwisko>Bagażowiak</Nazwisko>
+        <Pesel>02154896324</Pesel>
+        <DataUrodzenia>2001-06-16T00:00:00</DataUrodzenia>
+        <NumerTelefonu>698-855-417</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>84 1090 2170 3941 0611 5306 6777</NumerKonta>
+        <Funkcja>Bagażowy</Funkcja>
+        <Zarobki>3000</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Cirilla</Imie>
+        <Nazwisko>Janeczka</Nazwisko>
+        <Pesel>01958475836</Pesel>
+        <DataUrodzenia>1997-06-05T00:00:00</DataUrodzenia>
+        <NumerTelefonu>457-858-963</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>76 1050 1243 7425 0230 6457 2469</NumerKonta>
+        <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+        <Zarobki>3500</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Mariusz</Imie>
+        <Nazwisko>Pudzianowski</Nazwisko>
+        <Pesel>03266658497</Pesel>
+        <DataUrodzenia>1977-02-07T00:00:00</DataUrodzenia>
+        <NumerTelefonu>657-985-965</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>93 8226 1018 5556 7674 6193 0814</NumerKonta>
+        <Funkcja>Ochroniarz</Funkcja>
+        <Zarobki>2900</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Edward</Imie>
+        <Nazwisko>Szybki</Nazwisko>
+        <Pesel>03154935249</Pesel>
+        <DataUrodzenia>1995-07-01T00:00:00</DataUrodzenia>
+        <NumerTelefonu>145-985-685</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>71 1440 1299 0579 5523 7191 6491</NumerKonta>
+        <Funkcja>Portier</Funkcja>
+        <Zarobki>3100</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Elżbieta</Imie>
+        <Nazwisko>Kucharek</Nazwisko>
+        <Pesel>15963258749</Pesel>
+        <DataUrodzenia>2000-11-11T00:00:00</DataUrodzenia>
+        <NumerTelefonu>784-985-625</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>81 1610 1292 4122 1307 0802 9378</NumerKonta>
+        <Funkcja>PomocKuchenna</Funkcja>
+        <Zarobki>3300</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Krystian</Imie>
+        <Nazwisko>Palarczyk</Nazwisko>
+        <Pesel>09487532165</Pesel>
+        <DataUrodzenia>1988-12-16T00:00:00</DataUrodzenia>
+        <NumerTelefonu>147-589-965</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>40 1020 4027 9639 7041 0020 9770</NumerKonta>
+        <Funkcja>ZłotaRączka</Funkcja>
+        <Zarobki>4500</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Daria</Imie>
+        <Nazwisko>Knur</Nazwisko>
+        <Pesel>20186952347</Pesel>
+        <DataUrodzenia>1985-09-05T00:00:00</DataUrodzenia>
+        <NumerTelefonu>485-362-699</NumerTelefonu>
+        <Plec>K</Plec>
+        <NumerKonta>27 1020 3440 8141 7262 4601 6393</NumerKonta>
+        <Funkcja>Kucharz</Funkcja>
+        <Zarobki>5000</Zarobki>
+      </Pracownik>
+      <Pracownik>
+        <Imie>Białowąs</Imie>
+        <Nazwisko>Podkręcony</Nazwisko>
+        <Pesel>11218805570</Pesel>
+        <DataUrodzenia>1976-08-19T00:00:00</DataUrodzenia>
+        <NumerTelefonu>112-446-953</NumerTelefonu>
+        <Plec>M</Plec>
+        <NumerKonta>15 1500 1113 2518 3833 9874 7455</NumerKonta>
+        <Funkcja>Kelner</Funkcja>
+        <Zarobki>3200</Zarobki>
+      </Pracownik>
+    </ArrayOfPracownik>
+  </KadraPracownikow>
+  <KadraKierownikow>
+    <Kierownik>
+      <Imie>Stefan</Imie>
+      <Nazwisko>Polar</Nazwisko>
+      <Pesel>03256974812</Pesel>
+      <DataUrodzenia>1995-01-04T00:00:00</DataUrodzenia>
+      <NumerTelefonu>458-963-110</NumerTelefonu>
+      <Plec>M</Plec>
+      <Stopien>KierownikZespołu</Stopien>
+      <NumerKonta>75 9106 0008 3776 8298 6331 1133</NumerKonta>
+      <Zarobki>6000</Zarobki>
+    </Kierownik>
+    <Kierownik>
+      <Imie>Wiktoria</Imie>
+      <Nazwisko>Wolańska</Nazwisko>
+      <Pesel>15695817365</Pesel>
+      <DataUrodzenia>1989-07-12T00:00:00</DataUrodzenia>
+      <NumerTelefonu>365-775-520</NumerTelefonu>
+      <Plec>K</Plec>
+      <Stopien>KierownikZespołu</Stopien>
+      <NumerKonta>83 2550 0004 2713 8043 5885 1155</NumerKonta>
+      <Zarobki>6000</Zarobki>
+    </Kierownik>
+    <Kierownik>
+      <Imie>Darek</Imie>
+      <Nazwisko>Smyczyński</Nazwisko>
+      <Pesel>15968542012</Pesel>
+      <DataUrodzenia>1997-12-11T00:00:00</DataUrodzenia>
+      <NumerTelefonu>666-584-875</NumerTelefonu>
+      <Plec>M</Plec>
+      <Stopien>KierownikZespołu</Stopien>
+      <NumerKonta>17 8904 0001 3470 5536 6374 6411</NumerKonta>
+      <Zarobki>6000</Zarobki>
+    </Kierownik>
+  </KadraKierownikow>
+</KadraHotelu>

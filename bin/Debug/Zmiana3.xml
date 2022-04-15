@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zmiana xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KierownikZmiany>
+    <Imie>Darek</Imie>
+    <Nazwisko>Smyczyński</Nazwisko>
+    <Pesel>15968542012</Pesel>
+    <DataUrodzenia>1997-12-11T00:00:00</DataUrodzenia>
+    <NumerTelefonu>666-584-875</NumerTelefonu>
+    <Plec>M</Plec>
+    <Stopien>KierownikZespołu</Stopien>
+    <NumerKonta>17 8904 0001 3470 5536 6374 6411</NumerKonta>
+    <Zarobki>6000</Zarobki>
+  </KierownikZmiany>
+  <ListaPracownikow>
+    <Pracownik>
+      <Imie>Marian</Imie>
+      <Nazwisko>Bagażowiak</Nazwisko>
+      <Pesel>02154896324</Pesel>
+      <DataUrodzenia>2001-06-16T00:00:00</DataUrodzenia>
+      <NumerTelefonu>698-855-417</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>84 1090 2170 3941 0611 5306 6777</NumerKonta>
+      <Funkcja>Bagażowy</Funkcja>
+      <Zarobki>3000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Cirilla</Imie>
+      <Nazwisko>Janeczka</Nazwisko>
+      <Pesel>01958475836</Pesel>
+      <DataUrodzenia>1997-06-05T00:00:00</DataUrodzenia>
+      <NumerTelefonu>457-858-963</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>76 1050 1243 7425 0230 6457 2469</NumerKonta>
+      <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+      <Zarobki>3500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Mariusz</Imie>
+      <Nazwisko>Pudzianowski</Nazwisko>
+      <Pesel>03266658497</Pesel>
+      <DataUrodzenia>1977-02-07T00:00:00</DataUrodzenia>
+      <NumerTelefonu>657-985-965</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>93 8226 1018 5556 7674 6193 0814</NumerKonta>
+      <Funkcja>Ochroniarz</Funkcja>
+      <Zarobki>2900</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Edward</Imie>
+      <Nazwisko>Szybki</Nazwisko>
+      <Pesel>03154935249</Pesel>
+      <DataUrodzenia>1995-07-01T00:00:00</DataUrodzenia>
+      <NumerTelefonu>145-985-685</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>71 1440 1299 0579 5523 7191 6491</NumerKonta>
+      <Funkcja>Portier</Funkcja>
+      <Zarobki>3100</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Elżbieta</Imie>
+      <Nazwisko>Kucharek</Nazwisko>
+      <Pesel>15963258749</Pesel>
+      <DataUrodzenia>2000-11-11T00:00:00</DataUrodzenia>
+      <NumerTelefonu>784-985-625</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>81 1610 1292 4122 1307 0802 9378</NumerKonta>
+      <Funkcja>PomocKuchenna</Funkcja>
+      <Zarobki>3300</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Krystian</Imie>
+      <Nazwisko>Palarczyk</Nazwisko>
+      <Pesel>09487532165</Pesel>
+      <DataUrodzenia>1988-12-16T00:00:00</DataUrodzenia>
+      <NumerTelefonu>147-589-965</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>40 1020 4027 9639 7041 0020 9770</NumerKonta>
+      <Funkcja>ZłotaRączka</Funkcja>
+      <Zarobki>4500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Daria</Imie>
+      <Nazwisko>Knur</Nazwisko>
+      <Pesel>20186952347</Pesel>
+      <DataUrodzenia>1985-09-05T00:00:00</DataUrodzenia>
+      <NumerTelefonu>485-362-699</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>27 1020 3440 8141 7262 4601 6393</NumerKonta>
+      <Funkcja>Kucharz</Funkcja>
+      <Zarobki>5000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Białowąs</Imie>
+      <Nazwisko>Podkręcony</Nazwisko>
+      <Pesel>11218805570</Pesel>
+      <DataUrodzenia>1976-08-19T00:00:00</DataUrodzenia>
+      <NumerTelefonu>112-446-953</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>15 1500 1113 2518 3833 9874 7455</NumerKonta>
+      <Funkcja>Kelner</Funkcja>
+      <Zarobki>3200</Zarobki>
+    </Pracownik>
+  </ListaPracownikow>
+  <LiczbaPracownikowZmiany>8</LiczbaPracownikowZmiany>
+  <NazwaZmiany>Nocna</NazwaZmiany>
+</Zmiana>

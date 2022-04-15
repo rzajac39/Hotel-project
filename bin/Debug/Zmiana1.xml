@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zmiana xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KierownikZmiany>
+    <Imie>Stefan</Imie>
+    <Nazwisko>Polar</Nazwisko>
+    <Pesel>03256974812</Pesel>
+    <DataUrodzenia>1995-01-04T00:00:00</DataUrodzenia>
+    <NumerTelefonu>458-963-110</NumerTelefonu>
+    <Plec>M</Plec>
+    <Stopien>KierownikZespołu</Stopien>
+    <NumerKonta>75 9106 0008 3776 8298 6331 1133</NumerKonta>
+    <Zarobki>6000</Zarobki>
+  </KierownikZmiany>
+  <ListaPracownikow>
+    <Pracownik>
+      <Imie>Piotr</Imie>
+      <Nazwisko>Mały</Nazwisko>
+      <Pesel>01210709674</Pesel>
+      <DataUrodzenia>1998-12-12T00:00:00</DataUrodzenia>
+      <NumerTelefonu>666-666-976</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>84 9584 1092 3271 2063 5210 6429</NumerKonta>
+      <Funkcja>ZłotaRączka</Funkcja>
+      <Zarobki>4500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Maria</Imie>
+      <Nazwisko>Wilczur</Nazwisko>
+      <Pesel>11216702675</Pesel>
+      <DataUrodzenia>2000-01-14T00:00:00</DataUrodzenia>
+      <NumerTelefonu>647-632-776</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>35 1240 5224 8065 8860 7971 0257</NumerKonta>
+      <Funkcja>PomocKuchenna</Funkcja>
+      <Zarobki>3300</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Daria</Imie>
+      <Nazwisko>Wolak</Nazwisko>
+      <Pesel>50210920669</Pesel>
+      <DataUrodzenia>1995-07-21T00:00:00</DataUrodzenia>
+      <NumerTelefonu>172-336-446</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>45 1240 2643 3823 3693 7941 9370</NumerKonta>
+      <Funkcja>Kucharz</Funkcja>
+      <Zarobki>5000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Geralt</Imie>
+      <Nazwisko>Riv</Nazwisko>
+      <Pesel>41419908776</Pesel>
+      <DataUrodzenia>1993-11-30T00:00:00</DataUrodzenia>
+      <NumerTelefonu>946-656-226</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>51 1240 4429 2292 5011 3219 1612</NumerKonta>
+      <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+      <Zarobki>3500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Kordian</Imie>
+      <Nazwisko>Blanc</Nazwisko>
+      <Pesel>21214767634</Pesel>
+      <DataUrodzenia>2001-06-10T00:00:00</DataUrodzenia>
+      <NumerTelefonu>777-655-336</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>28 1240 2018 1728 5324 7959 2764</NumerKonta>
+      <Funkcja>Bagażowy</Funkcja>
+      <Zarobki>3000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Bezi</Imie>
+      <Nazwisko>Mienny</Nazwisko>
+      <Pesel>41315767324</Pesel>
+      <DataUrodzenia>2001-03-11T00:00:00</DataUrodzenia>
+      <NumerTelefonu>112-333-444</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>92 9527 0007 1769 7977 0366 9251</NumerKonta>
+      <Funkcja>Kelner</Funkcja>
+      <Zarobki>3200</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Barbara</Imie>
+      <Nazwisko>Koniczyna</Nazwisko>
+      <Pesel>11235588874</Pesel>
+      <DataUrodzenia>1992-09-14T00:00:00</DataUrodzenia>
+      <NumerTelefonu>222-333-336</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>84 9584 1092 3271 2063 5210 6429</NumerKonta>
+      <Funkcja>Ochroniarz</Funkcja>
+      <Zarobki>2900</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Sławomir</Imie>
+      <Nazwisko>Memtzen</Nazwisko>
+      <Pesel>11214569199</Pesel>
+      <DataUrodzenia>1989-04-10T00:00:00</DataUrodzenia>
+      <NumerTelefonu>334-263-475</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>26 9375 1054 6010 0352 4397 6011</NumerKonta>
+      <Funkcja>Portier</Funkcja>
+      <Zarobki>3100</Zarobki>
+    </Pracownik>
+  </ListaPracownikow>
+  <LiczbaPracownikowZmiany>8</LiczbaPracownikowZmiany>
+  <NazwaZmiany>Poranna</NazwaZmiany>
+</Zmiana>

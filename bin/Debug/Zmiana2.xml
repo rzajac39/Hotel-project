@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zmiana xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KierownikZmiany>
+    <Imie>Wiktoria</Imie>
+    <Nazwisko>Wolańska</Nazwisko>
+    <Pesel>15695817365</Pesel>
+    <DataUrodzenia>1989-07-12T00:00:00</DataUrodzenia>
+    <NumerTelefonu>365-775-520</NumerTelefonu>
+    <Plec>K</Plec>
+    <Stopien>KierownikZespołu</Stopien>
+    <NumerKonta>83 2550 0004 2713 8043 5885 1155</NumerKonta>
+    <Zarobki>6000</Zarobki>
+  </KierownikZmiany>
+  <ListaPracownikow>
+    <Pracownik>
+      <Imie>Bożydariusz</Imie>
+      <Nazwisko>Mielony</Nazwisko>
+      <Pesel>77210733376</Pesel>
+      <DataUrodzenia>1991-09-23T00:00:00</DataUrodzenia>
+      <NumerTelefonu>664-657-222</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>16 8001 0005 9980 0700 9244 3555</NumerKonta>
+      <Funkcja>ZłotaRączka</Funkcja>
+      <Zarobki>4500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Robert</Imie>
+      <Nazwisko>Lewandowski</Nazwisko>
+      <Pesel>21444559114</Pesel>
+      <DataUrodzenia>1987-03-19T00:00:00</DataUrodzenia>
+      <NumerTelefonu>111-222-353</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta> 22 8149 0000 8645 1083 7923 8947</NumerKonta>
+      <Funkcja>Ochroniarz</Funkcja>
+      <Zarobki>2900</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Krzysztof</Imie>
+      <Nazwisko>Stanowski</Nazwisko>
+      <Pesel>21330559994</Pesel>
+      <DataUrodzenia>2001-09-21T00:00:00</DataUrodzenia>
+      <NumerTelefonu>223-856-358</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>76 8811 0006 3214 4137 9466 2643</NumerKonta>
+      <Funkcja>Kucharz</Funkcja>
+      <Zarobki>5000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Ferdynand</Imie>
+      <Nazwisko>Kiepski</Nazwisko>
+      <Pesel>01254695875</Pesel>
+      <DataUrodzenia>1991-09-05T00:00:00</DataUrodzenia>
+      <NumerTelefonu>362-748-951</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>3 1130 0007 9683 5108 9170 5814</NumerKonta>
+      <Funkcja>Bagażowy</Funkcja>
+      <Zarobki>3000</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Jarosław</Imie>
+      <Nazwisko>Kaczyński</Nazwisko>
+      <Pesel>02697541238</Pesel>
+      <DataUrodzenia>1968-01-15T00:00:00</DataUrodzenia>
+      <NumerTelefonu>157-498-265</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>62 1090 2545 0304 4358 2526 3298</NumerKonta>
+      <Funkcja>PomocKuchenna</Funkcja>
+      <Zarobki>3300</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Forest</Imie>
+      <Nazwisko>Gump</Nazwisko>
+      <Pesel>26154873219</Pesel>
+      <DataUrodzenia>1991-07-16T00:00:00</DataUrodzenia>
+      <NumerTelefonu>154-932-586</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>42 1240 4647 7499 2109 1177 1621</NumerKonta>
+      <Funkcja>KonserwatorPowierzchniPłaskich</Funkcja>
+      <Zarobki>3500</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Meve</Imie>
+      <Nazwisko>Zdradzona</Nazwisko>
+      <Pesel>81213302174</Pesel>
+      <DataUrodzenia>1982-11-01T00:00:00</DataUrodzenia>
+      <NumerTelefonu>222-356-944</NumerTelefonu>
+      <Plec>K</Plec>
+      <NumerKonta>95 9288 1011 4453 8727 1690 6626</NumerKonta>
+      <Funkcja>Portier</Funkcja>
+      <Zarobki>3100</Zarobki>
+    </Pracownik>
+    <Pracownik>
+      <Imie>Maksymilian</Imie>
+      <Nazwisko>Duży</Nazwisko>
+      <Pesel>02314526984</Pesel>
+      <DataUrodzenia>1994-06-02T00:00:00</DataUrodzenia>
+      <NumerTelefonu>145-863-248</NumerTelefonu>
+      <Plec>M</Plec>
+      <NumerKonta>2 8619 1058 1969 3438 2380 7842</NumerKonta>
+      <Funkcja>Kelner</Funkcja>
+      <Zarobki>3200</Zarobki>
+    </Pracownik>
+  </ListaPracownikow>
+  <LiczbaPracownikowZmiany>8</LiczbaPracownikowZmiany>
+  <NazwaZmiany>Popołudniowa</NazwaZmiany>
+</Zmiana>

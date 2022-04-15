@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaRezerwacji xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rezerwacje>
+    <Rezerwacja>
+      <DlugoscPobytu>7</DlugoscPobytu>
+      <DataWprowadzenia>2022-05-19T00:00:00</DataWprowadzenia>
+      <NumerPokoju>11</NumerPokoju>
+      <Pesel>01234567894</Pesel>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DlugoscPobytu>1</DlugoscPobytu>
+      <DataWprowadzenia>2022-03-23T00:00:00</DataWprowadzenia>
+      <NumerPokoju>12</NumerPokoju>
+      <Pesel>02154879854</Pesel>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DlugoscPobytu>10</DlugoscPobytu>
+      <DataWprowadzenia>2022-04-03T00:00:00</DataWprowadzenia>
+      <NumerPokoju>33</NumerPokoju>
+      <Pesel>45963254198</Pesel>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DlugoscPobytu>10</DlugoscPobytu>
+      <DataWprowadzenia>2022-02-26T00:00:00</DataWprowadzenia>
+      <NumerPokoju>42</NumerPokoju>
+      <Pesel>12784653081</Pesel>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DlugoscPobytu>4</DlugoscPobytu>
+      <DataWprowadzenia>2022-02-02T00:00:00</DataWprowadzenia>
+      <NumerPokoju>22</NumerPokoju>
+      <Pesel>12784653081</Pesel>
+    </Rezerwacja>
+    <Rezerwacja>
+      <DlugoscPobytu>5</DlugoscPobytu>
+      <DataWprowadzenia>2022-02-23T00:00:00</DataWprowadzenia>
+      <NumerPokoju>22</NumerPokoju>
+      <Pesel>12784653081</Pesel>
+    </Rezerwacja>
+  </Rezerwacje>
+</ListaRezerwacji>

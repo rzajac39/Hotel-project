@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BibliotekaHotel</name>
+    </assembly>
+    <members>
+        <member name="M:BibliotekaHotel.Pracownik.Placa(BibliotekaHotel.Funkcje)">
+            <summary>
+            Funkcja obliczająca zarobki na podstawie funkcji i zmiany
+            </summary>
+            <param name="funkcja">Pełniona funkcja</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
